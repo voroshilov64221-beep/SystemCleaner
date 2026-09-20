@@ -7,7 +7,7 @@
 | Что | Ссылка |
 |---|---|
 | 🚀 **Программа (последняя версия)** | [SystemCleaner.exe](https://github.com/voroshilov64221-beep/SystemCleaner/releases/latest/download/SystemCleaner.exe) |
-| 📄 **Инструкция (PDF)** | [SystemCleaner_Manual_v1.0.pdf](https://github.com/voroshilov64221-beep/SystemCleaner/raw/main/SystemCleaner_Manual_v1.0.pdf) |
+| 📄 **Инструкция (PDF)** | [SystemCleaner_Manual_v1.0.pdf](https://github.com/voroshilov64221-beep/SystemCleaner/raw/main/SystemCleaner_Manual_v1.1.pdf) |
 
 ## ✨ Что умеет
 
@@ -48,7 +48,7 @@
 
 ## 📚 Документация
 
-- [Инструкция пользователя (PDF)](https://github.com/voroshilov64221-beep/SystemCleaner/raw/main/SystemCleaner_Manual_v1.0.pdf)
+- [Инструкция пользователя (PDF)](https://github.com/voroshilov64221-beep/SystemCleaner/raw/main/SystemCleaner_Manual_v1.1.pdf)
 
 ## 🏷️ Версии
 
